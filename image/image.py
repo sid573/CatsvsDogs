@@ -10,6 +10,7 @@ import h5py
 from sklearn.cross_validation import train_test_split
 from keras.models import load_model
 import matplotlib.pyplot as plt
+import xlrd
 #model = load_model('my_model_weights.h5')
 batch_size = 16
 
